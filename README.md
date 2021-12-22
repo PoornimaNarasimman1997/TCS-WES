@@ -1,0 +1,2 @@
+# TCS-WES
+This application facilitates many magazine titles both national and international titles to publish the promotions, accept orders on behalf of these titles and to avail renewal features for the customers.  TCS provides different title subscription pages for their customers where purchase, order tracking and secured payment can be done for Magazine as Print or Digital subscription. Time also maintains its own payment flow and provides a secure payment mode for the customers. They maintain their own acquirer and issuer banks for payment.
